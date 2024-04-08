@@ -23,7 +23,7 @@ struct MenuListRow: View {
             
             Text("$"+item.price)
         }
-        .listRowBackground(Color("Primary"))
+        .listRowBackground(Color("uiColor"))
     }
 }
 
